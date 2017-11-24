@@ -1,0 +1,10 @@
+{
+    "name": "mpatrick/backend",
+    "authors": [
+        {
+            "name": "Mike Patrick",
+            "email": "mpatrick76@gmail.com"
+        }
+    ],
+    "require": {}
+}
